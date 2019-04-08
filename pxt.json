@@ -1,5 +1,5 @@
 {
-    "name": "informatie-u",
+    "name": "Informatie-U",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -13,6 +13,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
